@@ -1,2 +1,2 @@
-int numeros = 0;
-String nombre = "Gonzalo";
+int numeros = 6;
+String nombre = "LuciaCompi";
